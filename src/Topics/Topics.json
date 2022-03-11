@@ -1,0 +1,68 @@
+{
+    "Topics":[{
+
+                 "t_name":"Paid Courses",
+                 "t_id":"T01",
+                 "description":"6 Months",
+                 "SubTopic":[{
+                               "s_id":"ST01",
+                               "subName":"MARN Stack",
+                               "s_img":"../../../image/MernA.jpg",
+                               "s_des":"MERN STACK DEVELOPMENT COURSE Online Training Available",
+                               
+                               "s_description":"Webskitters Academy is a premier online IT training institute in India that guarantees 100% placement to its candidates, with written commitment. Join us to experience industry-oriented course modules for MERN Stack online training. Our faculties update the course modules regularly to ensure providing high-quality training. Certified corporate professionals with years of experience in the field train our students, preparing them for the future by providing them with in-depth knowledge, hands-on practical training and giving them live projects to work on.."
+                             },
+            
+                              {
+                    
+                                "s_id":"ST02",
+                                "subName":"ANDROID",
+                                "s_img":"../../../image/Android.png",
+                                "s_des":"ANDROID APP DEVELOPMENT USING CORE JAVA.",
+                                "s_description":"Webskitters Academy offers the best and top-notch Android App Development Course with Classroom based & Online Training. Being a major technical course provider in India, Webskitters Academy provides its students with the best learning environment and teaching faculty. The industry experts with several years of experience form the part of our faculty members, and they share their knowledge with our students through this course. Rendering in-depth training, with proper practical knowledge and application, we turn our students into a complete package, ready for the professional world. Join our Online Android App Development Course Today!."
+                             },
+                             {
+                                "s_id":"ST03",
+                                "subName":"WEB DESIGN ",
+                                "s_img":"../../../image/web.jpg",
+                                "s_des":"WEB DESIGN COURSE WITH BOOTSTRAP Online Training Available.",
+                                "s_description":"When it comes to Web Designing with Bootstrap Training, Webskitters Academy is the name you can rely upon. Having professionals, with years of experience in Web Designing, on-board, makes us a reliable and trustworthy web design institute for our candidates. It is an ideal course for every creative mind and can be done by even Class-12 passed students, who are looking for professional training to shape their career. Enroll in our online/classroom training today, and lead on to the path of success with us. Keeping the current industry trends in mind, we ensure to come up with market-oriented course modules that help our candidates to develop professionally."
+                             }
+                           ]
+                },
+{
+                 "t_name":"Free Courses",
+                 "t_id":"T02",
+                 "description":"1-2 Months",
+                 "SubTopic":[{
+                                  "s_id":"ST04",
+                                  "subName":"UI/UX DESIGN",
+                                  "s_img":"../../../image/apple.jpg",
+                                  "s_des":"BEST UI/UX DESIGN ONLINE TRAINING Online Training Available.",
+                                  "s_description":"Webskitters Academy presents a wonderful range of career prospects to its candidates. Offering reliable and noteworthy UI/UX Design online training, the institute aims to help its students to gain in-depth knowledge of the industry. Promoting a healthy learning environment, the faculties ensure to develop exclusive skills among the candidates. With our top-notch online training, we prepare you for the market and help you to experience excellent career prospects."
+                                },
+                                {
+                                    "s_id":"ST05",
+                                    "subName":"MACHINE LEARNING",
+                                    "s_img":"../../../image/mango.jpg",
+                                    "s_des":"MACHINE LEARNING USING PYTHON ONLINE COURSE Online Training Available.",
+                                    "s_description":"Webskitters Academy is a leading online IT training institute in India. We are a well-equipped online training institute, helping the candidates to gain in-depth knowledge about the industry. With our Machine Learning using Python Online Course, we help them to work on real-time projects and develop excellent career prospects for them. Our industry experts help you to learn in-depth skills and the latest technologies that give you a head-start in the market. Enrol in our course and start your live training for a great career!"
+                                },
+                                {
+                                    "s_id":"ST06",
+                                    "subName":"IoT",
+                                    "s_img":"../../../image/banana.jpg",
+                                    "s_des":"BEST INTERNET OF THINGS ONLINE TRAINING Online Training Available.",
+                                    "s_description":"Want to develop an amazing career in IoT? Come, join us at Webskitters Academy! We deliver high-end IoT online courses and are committed to offering in-depth knowledge and training to our candidates. Making you learn about the industry, our faculty members that include the industry experts, share their skills and knowledge with you through the training. With IoT being one of the best and most advanced technologies in the market, we lay our focus on training the students flawlessly and helping them to work on their skills and implement them in their live projects."
+                                }
+                            ]
+                 }
+
+   
+             ]
+}
+                
+
+                
+
+    

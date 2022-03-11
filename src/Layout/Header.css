@@ -1,0 +1,20 @@
+/* .reg{
+    float: right;
+} */
+img, svg {
+    vertical-align: middle;
+    width: 140px;
+    border-radius: 7px;
+    
+}
+/* .Fpage{
+    position: relative;
+    padding-bottom: 100%;
+    ;
+} */
+.bg-dark {
+    color: black;
+    --bs-bg-opacity: 1;
+    
+    background-color: black!important;
+}

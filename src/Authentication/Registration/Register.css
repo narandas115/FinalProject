@@ -1,0 +1,8 @@
+.reg_bg{
+    background-color: aqua;
+    align-content:flex-start;
+    margin: 1px;
+}
+.img{
+    width: 100%;
+}

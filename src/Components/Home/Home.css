@@ -1,0 +1,31 @@
+.homePage{
+    font-style: italic;
+    
+    text-align:center;
+}
+.banner_area{
+    background-color: #021d2c;
+    box-sizing: border-box;
+    
+    
+}
+.container{
+    max-width: 2000px;
+    background-attachment: fixed;
+    
+    
+}
+.banner_bg {
+    border-radius: 40px;
+    background-size: cover!important;
+    padding-top: 10px;
+    width: 100%;
+}
+.banner_bg2{
+    border-radius: 40px;
+    background-size: cover!important;
+    padding-top: 10px;
+    width: 100%;
+}
+
+
